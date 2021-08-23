@@ -32,7 +32,7 @@ a {
 }
 
 a:hover {
-  color:#ff5b0b;
+  color:#ff9505;
   text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ff0000;
+  background: #ff9505;
   width: 40px;
   height: 40px;
   border-radius: 4px;
